@@ -9,7 +9,7 @@ print('A letra A aparece a primeira vez na posição {}.'.format(frase_maiuscula
 print('A última letra A aparece na posição {}.'.format(frase_maiuscula.rfind('A')))
 
 #Segunda forma de fazer
-frase = str(input('Digite uma frase: ')).upper()
+frase = str(input('Digite uma frase: ')).upper().strip()
 print('Contém {} letras A na frase.'.format(frase.count('A')))
 print('A letra A aparece a primeira vez na posição {}.'.format(frase.find('A')))
 print('A última letra A aparece na posição {}.'.format(frase.rfind('A')))
