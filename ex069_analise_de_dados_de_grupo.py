@@ -11,9 +11,9 @@ while True:
 		sexo = str(input('Sexo (f/m): ')).strip().upper()
 	if idade >= 18:
 		m18 += 1
-	if sexo ==  'M':
+	if sexo == 'M':
 		h += 1 
-	if idade  < 20 and sexo == 'F':
+	if idade < 20 and sexo == 'F':
 		m20 += 1
 	opcao = ' '
 	while opcao not in 'SN':
