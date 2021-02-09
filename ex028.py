@@ -45,4 +45,4 @@ while True:
     if aposta == escolhido:
         print(f'Voce acertou o numero! {escolhido} ')
     else:
-        print(f'voce errou o numero sortiado foi {escolhido}')
+        print(f'voce errou o numero escolhido foi {escolhido}')
