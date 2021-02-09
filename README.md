@@ -1,5 +1,6 @@
 # Exercicios
-Exercícios Feitos
+Exercícios Feitos (Curso em vídeo).
+Desafios (propostos por mim).
 
 Versão
 ```console
