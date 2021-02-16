@@ -19,13 +19,9 @@ while True:
 		np = 'I'
 		valor = 'ímpar'
 	if opcao == np:
-		 print(f'Você venceu! O computador escolheu {c} e você {n} a soma deu {soma} e este número é {valor}. Vamos jogar novamente...')
-		 tentativas +=1
+		print(f'Você venceu! O computador escolheu {c} e você {n} a soma deu {soma} e este número é {valor}. Vamos jogar novamente...')
+		tentativas +=1
 	else:
-		 print(f'Você perdeu! O computador escolheu {c} e você {n} e a soma deu {soma} e este número é {valor}.')
-		 break
+		print(f'Você perdeu! O computador escolheu {c} e você {n} e a soma deu {soma} e este número é {valor}.')
+		break
 print(f'Fim de jogo. Você venceu {tentativas} vezes!')
-		 
-		
-	
-	
