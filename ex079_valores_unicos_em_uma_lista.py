@@ -2,7 +2,6 @@
 
 lista = []
 
-igual = 0
 while True:
     a = (int(input('Digite um valor: ')))
     if a not in lista:
