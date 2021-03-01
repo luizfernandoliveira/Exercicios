@@ -72,7 +72,7 @@ for p in princ:
     if p[1] == mai:
         print(f'[{p[0]}]', end='')
 print()
-print(f'O menor peso foi de {mai}Kg. Peso de ', end=' ')
+print(f'O menor peso foi de {men}Kg. Peso de ', end=' ')
 for p in princ:
     if p[1] == men:
         print(f'[{p[0]}]', end='')
