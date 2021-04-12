@@ -1,3 +1,5 @@
+"EX100 Funções para sortear e somar"
+
 from random import randint
 from time import sleep
 numeros = []
