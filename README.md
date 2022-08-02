@@ -1,6 +1,7 @@
 # Exercicios
-Exercícios Feitos (Curso em vídeo).
-Desafios (propostos por mim).
+Exercícios Feitos (Curso em vídeo). Mais de 100 exercícios de Python.
+
+Mais desafios (propostos por mim).
 
 Versão
 ```console
